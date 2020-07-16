@@ -4,9 +4,6 @@
 
 I'm a backend developer and in love with technology
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Mercado Eletrônico
 - 🌱 I’m currently learning .NET and Node.
 - 👯 I’m looking to collaborate on front end projects.
