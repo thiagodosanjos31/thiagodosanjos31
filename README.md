@@ -3,8 +3,7 @@
 ### Hi there 👋
 
 I'm a backend developer and in love with technology
-<!--
-**thiagodosanjos31/thiagodosanjos31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to develop a podcast
 - 💬 Ask me about philosophy in general
 - 😄 In free time i usually play some games, practice sports and stay with my family and friends.
+
+----
 
 [![Github Badge](https://img.shields.io/badge/-thiagodosanjos31-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodosanjos31)](https://github.com/rebeccamanzi)
 [![Linkedin Badge](https://img.shields.io/badge/-thiagodosanjos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-dos-anjos/)](https://www.linkedin.com/in/rebeccamanzi/)
