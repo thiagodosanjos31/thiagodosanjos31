@@ -4,9 +4,8 @@
 
 I'm a backend developer and in love with technology
 
-- 🔭 I’m currently working at Mercado Eletrônico
-- 🌱 I’m currently learning .NET and Node.
-- 👯 I’m looking to collaborate on front end projects.
+- 🔭 I’m currently working at B2W Digital
+- 🌱 I’m currently learning Clojure.
 - 🤔 I’m looking for help to develop a podcast
 - 💬 Ask me about philosophy in general
 - 😄 In free time i usually play some games, practice sports and stay with my family and friends.
