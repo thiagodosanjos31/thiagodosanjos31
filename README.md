@@ -4,7 +4,7 @@
 
 I'm a backend developer and in love with technology
 
-- 🔭 I’m currently working at B2W Digital
+- 🔭 I’m currently working at Itau Unibanco.
 - 🌱 I’m currently learning Clojure.
 - 🤔 I’m looking for help to develop a podcast
 - 💬 Ask me about philosophy in general
